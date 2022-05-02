@@ -1,0 +1,15 @@
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\bin\Debug\net6.0\SortNumbers.exe
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\bin\Debug\net6.0\SortNumbers.deps.json
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\bin\Debug\net6.0\SortNumbers.runtimeconfig.json
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\bin\Debug\net6.0\SortNumbers.dll
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\bin\Debug\net6.0\SortNumbers.pdb
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\obj\Debug\net6.0\SortNumbers.csproj.AssemblyReference.cache
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\obj\Debug\net6.0\SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\obj\Debug\net6.0\SortNumbers.AssemblyInfoInputs.cache
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\obj\Debug\net6.0\SortNumbers.AssemblyInfo.cs
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\obj\Debug\net6.0\SortNumbers.csproj.CoreCompileInputs.cache
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\obj\Debug\net6.0\SortNumbers.dll
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\obj\Debug\net6.0\refint\SortNumbers.dll
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\obj\Debug\net6.0\SortNumbers.pdb
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\obj\Debug\net6.0\SortNumbers.genruntimeconfig.cache
+C:\DevC#\CodeWarsC#\SortNumbers\SortNumbers\obj\Debug\net6.0\ref\SortNumbers.dll
